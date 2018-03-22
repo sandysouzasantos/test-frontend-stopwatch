@@ -1,0 +1,78 @@
+.sidebar {
+  background-color: #3860a9;
+  color: #eef5fd;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.content {
+  padding: 10px;
+}
+
+nav {
+  background-color: #c4d9f4;
+
+}
+
+nav ul a {
+  color: #3860a9;
+}
+
+.blue {
+  background-color: #3860a9;
+
+  color: #fff;
+
+}
+
+.margin {
+  margin-right: 8px;
+}
+
+.row .col.s3 {
+  width: 24%;
+}
+
+.card-content {
+  text-align: center;
+}
+
+.waves-effect {
+  display: block;
+  width: 50%;
+  margin: 0 auto 16px;
+}
+
+.btn{
+  background-color: #c3ddf4;
+  color: #273573;
+  padding: 0;
+}
+
+.btn.red {
+  background-color: #f3a5a5 !important;
+  color: #782b2a !important;
+}
+.row.cart{
+  margin-bottom: 0;
+}
+
+.green {
+  background-color: #80e692 !important;
+}
+
+.size {
+  height: 100px;
+}
+.material-icons{
+  vertical-align: bottom;
+}
+
+.card .card-title{
+  padding: 16px;
+}
+
+.big{
+  font-size: 3rem;
+}
+
