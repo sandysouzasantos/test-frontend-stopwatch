@@ -21,7 +21,6 @@ export class AppComponent implements OnInit {
         this.timestamp += 10;
       }
     });
-
   }
 
   increment() {
